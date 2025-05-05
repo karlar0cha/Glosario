@@ -1,2 +1,2 @@
-# Glosario-
+# Glosario
 Glosario para Delitos Cibernéticos 

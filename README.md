@@ -126,6 +126,8 @@
 
 **Valores HASH**: Funciones criptográficas que transforma cualquier bloque de datos en una nueva serie de caracteres con una longitud fija 
 
+**Criptografía**: Arte de ocultar y hacer ilegible la información para resguardarla 
+
 **Cifrado de información**: Proceso criptográfico que convierte el texto legible en texto codificado, se basa en algoritmos de cifrado. 
 - _Cifrado simétrico_: La clave usada para cifrar y descifrar es la misma
 - _Cifrado asimétrico_: La clave usada para sifrar y descifrar son diferentes
@@ -143,4 +145,16 @@
     - Reconocimiento facial
   - _Procesamiento de información_: Da organización y relación a la información
   - _Análisis_: Relación entre datos y se estima su relevancia, credibilidad y valor para las investigaciones
-  - 
+
+**Indicios digitales**: Cualquier información que, sujeta a una intervención humana, ha sido <ins>extraída de un medio informático</ins>
+- _Indicios volátiles_: Memoria RAM, archivos abiertos, conexiones de red
+- _Indicios no volátiles_: Discos duros, USB, CD/DVD
+
+**Recolección de indicios**
+- **Para equipos encendidos**: <ins>NO SE APAGA</ins>, se realiza el volcado de memoria RAM y hashear datos fe la misma
+- **Para equipos apagados**: Se retira cable de alimentación y se extrae la batería si es posible; se desconectan también todos los periféricos
+
+**Jaulas de Faraday**: Bolsas que desvían los impulsos magnéticos alrededor de un área para que no se vea afectada, evitando cualquier tipo de interfencia
+
+
+
